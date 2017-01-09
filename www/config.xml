@@ -2,18 +2,18 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.control_esp8266"
-        versionCode = "30" 
-        version     = "0.0.30" >
+        id          = "cat.numancia.sistema_solar_scb"
+        versionCode = "1" 
+        version     = "0.0.01" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	
 
-   <name>Control ESP8266</name>
+   <name>Sistema Solar</name>
 
    <description>
-       Test per control.lar un NodeMCU 8266
+       Sistema Solar de 2n d'ESO B fet per Sergi Curtu
     </description>
 
     <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
